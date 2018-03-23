@@ -5,4 +5,4 @@
 
 OUTPUT:
 
-![alt text]()
+![alt text](https://github.com/rajatsharma369007/Computer_Networking/blob/master/assignment_1/Output.JPG)
