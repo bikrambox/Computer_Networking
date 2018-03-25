@@ -1,0 +1,9 @@
+welcome to socket programming
+what is your name?
+what is ur age?
+what is ur mobile no?
+how good u are at programming?
+what is advantage of c over java?
+what is the advantage of using c++?
+how good is python?
+my number is 123445566
